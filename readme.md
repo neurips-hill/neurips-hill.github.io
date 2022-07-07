@@ -1,5 +1,10 @@
-
+<a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="images/web/water-top-small-min.png" />
+ </a> 
+ 
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
+
+<tr>
 
 Human in the Loop Learning (HiLL) Workshop at NeurIPS 2022
 Introduction
@@ -42,45 +47,45 @@ We invite representative researchers from the related areas to give featured tal
 <td><img src="images/speakers/Alison Gopnik.jpg" width="300" height="270"  border=0 />
 <br>Alison Gopnik, Professor at <br> University of California, Berkeley
 </td>
-<td><img src="images/speakers/Peter Stone.png" width="300" height="270"  border=0 />
+<td><img src="images/speakers/Peter Stone-min.png" width="300" height="270"  border=0 />
 <br>Peter Stone, Professor at <br> University of Texas at Austin 
 </td>
-<td><img src="images/speakers/Sarit Kraus.png" width="300" height="270" border=0  />
+<td><img src="images/speakers/Sarit Kraus-min.png" width="300" height="270" border=0  />
 <br>Sarit Kraus, Professor at <br> Bar-Ilan University
 </td>
 </tr>
 
 <tr>
-<td><img src="images/speakers/Samuel Kaski.png" width="300" height="270"  border=0 />
+<td><img src="images/speakers/Samuel Kaski-min.png" width="300" height="270"  border=0 />
 <br>Samuel Kaski, Professor at <br> University of Manchester and Aalto University
 </td>
-<td><img src="images/speakers/Lydia Kavraki.png" width="300" height="270"  border=0 />
+<td><img src="images/speakers/Lydia Kavraki-min.png" width="300" height="270"  border=0 />
 <br>Lydia Kavraki, Professor at <br> Rice University
 </td>
-<td><img src="images/speakers/Danica Kragic.png" width="300" height="270" border=0  />
+<td><img src="images/speakers/Danica Kragic-min.png" width="300" height="270" border=0  />
 <br>Danica Kragic, Professor at <br> Royal Institute of Technology, KTH 
 </td>
 </tr>
 
 <tr>
-<td><img src="images/speakers/Cynthia Rudin.png" width="300" height="270"  border=0 />
+<td><img src="images/speakers/Cynthia Rudin-min.png" width="300" height="270"  border=0 />
 <br>Cynthia Rudin, Professor at <br> Duke University
 </td>
-<td><img src="images/speakers/Jens Kober.png" width="300" height="270"  border=0 />
+<td><img src="images/speakers/Jens Kober-min.png" width="300" height="270"  border=0 />
 <br>Jens Kober, Associate Professor at <br> Delft University of Technology </td>
-<td><img src="images/speakers/Dorsa Sadigh.png" width="300" height="270" border=0  />
+<td><img src="images/speakers/Dorsa Sadigh-min.png" width="300" height="270" border=0  />
 <br>Dorsa Sadigh, Assistant Professor at <br> Stanford University
 </td>
 </tr>
 
 <tr>
-<td><img src="images/speakers/Brenna Argall.png" width="300" height="270"  border=0 />
+<td><img src="images/speakers/Brenna Argall-min.png" width="300" height="270"  border=0 />
 <br>Brenna Argall, Associate Professor at <br> Northwestern University
 </td>
-<td><img src="images/speakers/Igor Mordatch.png" width="300" height="270"  border=0 />
+<td><img src="images/speakers/Igor Mordatch-min.png" width="300" height="270"  border=0 />
 <br>Igor Mordatch at <br> Google Brain
 </td>
-<td><img src="images/speakers/Dan Bohus.png" width="300" height="270" border=0  />
+<td><img src="images/speakers/Dan Bohus-min.png" width="300" height="270" border=0  />
 <br>Dan Bohus, Senior Principal Researcher at <br> Microsoft Research
 </td> 
 </tr>
@@ -104,7 +109,7 @@ We invite representative researchers from the related areas to give featured tal
 
 
 <!--
-- Vittorio Ferrari, Senior Staff Research Scientist at Google, Honorary Professor at the Uni. of Edinburgh	
+- Vittorio Ferrari, Senior Staff Research Scientist at Google, Honorary Professor at the Uni. of Edinburgh
 - Shanghang Zhang, Assistant Prof. at Peking Uni.
 - Wei Pan, Associate Prof. at Manchester and TU Delft
 - Pradeep Ravikumar, Associate Prof. at CMU
@@ -113,3 +118,7 @@ We invite representative researchers from the related areas to give featured tal
 - Xin Wang, Senior Researcher at Microsoft Research
 - -->	
 
+
+<a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="images/web/water-bottom-min.png" />
+ </a> 
