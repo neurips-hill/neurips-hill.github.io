@@ -38,46 +38,46 @@ We invite representative researchers from the related areas to give featured tal
 
 <table>
 <tr>
-<td><img src="images/speakers/Alison Gopnik.jpg" width="300" height="300"  border=0 />
+<td><img src="images/speakers/Alison Gopnik.jpg" width="300" height="270"  border=0 />
 <br>Alison Gopnik, Professor at <br> University of California, Berkeley
 </td>
-<td><img src="/img/2_20191117104902.jpg" width="300" height="300"  border=0 />
+<td><img src="images/speakers/Peter Stone.png" width="300" height="270"  border=0 />
 <br>Peter Stone, Professor at <br> University of Texas at Austin 
 </td>
-<td><img src="/img/3_20191117104906.jpg" width="300" height="300" border=0  />
+<td><img src="images/speakers/Sarit Kraus.png" width="300" height="270" border=0  />
 <br>Sarit Kraus, Professor at <br> Bar-Ilan University
 </td>
 </tr>
 
 <tr>
-<td><img src="images/speakers/xxxx" width="300" height="300"  border=0 />
+<td><img src="images/speakers/Samuel Kaski.png" width="300" height="270"  border=0 />
 <br>Samuel Kaski, Professor at <br> University of Manchester and Aalto University
 </td>
-<td><img src="/img/2_20191117104902.jpg" width="300" height="300"  border=0 />
+<td><img src="images/speakers/Lydia Kavraki.png" width="300" height="270"  border=0 />
 <br>Lydia Kavraki, Professor at <br> Rice University
 </td>
-<td><img src="/img/3_20191117104906.jpg" width="300" height="300" border=0  />
+<td><img src="images/speakers/Danica Kragic.png" width="300" height="270" border=0  />
 <br>Danica Kragic, Professor at <br> Royal Institute of Technology, KTH 
 </td>
 
 <tr>
-<td><img src="images/speakers/xxxx" width="300" height="300"  border=0 />
+<td><img src="images/speakers/Cynthia Rudin.png" width="300" height="270"  border=0 />
 <br>Cynthia Rudin, Professor at <br> Duke University
 </td>
-<td><img src="/img/2_20191117104902.jpg" width="300" height="300"  border=0 />
+<td><img src="images/speakers/Jens Kober.png" width="300" height="270"  border=0 />
 <br>Jens Kober, Associate Professor at <br> Delft University of Technology </td>
-<td><img src="/img/3_20191117104906.jpg" width="300" height="300" border=0  />
+<td><img src="images/speakers/Dorsa Sadigh.png" width="300" height="270" border=0  />
 <br>Dorsa Sadigh, Assistant Professor at <br> Stanford University
 </td>
 
 <tr>
-<td><img src="images/speakers/xxxx" width="300" height="300"  border=0 />
-<br>	Brenna Argall, Associate Professor at <br> Northwestern University
+<td><img src="images/speakers/Brenna Argall.png" width="300" height="270"  border=0 />
+<br>Brenna Argall, Associate Professor at <br> Northwestern University
 </td>
-<td><img src="/img/2_20191117104902.jpg" width="300" height="300"  border=0 />
+<td><img src="images/speakers/Igor Mordatch.png" width="300" height="270"  border=0 />
 <br>Igor Mordatch at <br> Google Brain
 </td>
-<td><img src="/img/3_20191117104906.jpg" width="300" height="300" border=0  />
+<td><img src="images/speakers/Dan Bohus.png" width="300" height="270" border=0  />
 <br>Dan Bohus, Professor at <br> MIT
 </td>
 
