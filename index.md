@@ -99,12 +99,13 @@ We invite representative researchers from the related areas to give featured tal
 | 11:00am-11:30am | TBA     |
 
 
-
+<!--
 - Vittorio Ferrari, Senior Staff Research Scientist at Google, Honorary Professor at the Uni. of Edinburgh	
 - Shanghang Zhang, Assistant Prof. at Peking Uni.
 - Wei Pan, Associate Prof. at Manchester and TU Delft
 - Pradeep Ravikumar, Associate Prof. at CMU
 - Fisher Yu, Assistant professor at ETH Zurich
 - Hao Dong, Assistant Prof. at Peking Uni.
-- Xin Wang, Senior Researcher at Microsoft Research	
+- Xin Wang, Senior Researcher at Microsoft Research
+- -->	
 
