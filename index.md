@@ -1,9 +1,11 @@
-<!--<img src="images/web/hand-min.png" /> -->
 
+<a href="https://" target="\_blank">
+  <img src="images/web/hand-min.png" />
+ </a> 
  
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
 
-<tr>
+
 
 Human in the Loop Learning (HiLL) Workshop at NeurIPS 2022
 Introduction
@@ -120,4 +122,6 @@ We invite representative researchers from the related areas to give featured tal
  
 <!--  <img src="images/web/water-bottom-min.png" /> -->
 
- 
+ <a href="https://" target="\_blank">
+  <img src="images/web/water-bottom-min.png" />
+ </a> 

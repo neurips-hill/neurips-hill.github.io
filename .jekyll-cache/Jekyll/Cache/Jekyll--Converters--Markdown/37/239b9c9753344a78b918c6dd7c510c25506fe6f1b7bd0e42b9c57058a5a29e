@@ -1,0 +1,163 @@
+I"�G<p><a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="files/web/water-top-small-min.png" />
+ </a></p>
+
+<p><strong>Spring 2020 - Thu 3:00-6:00 PM, Peking University</strong></p>
+
+<p>This course covers the fundamentals, research topics and applications of deep generative models.</p>
+
+<h1 id="schedule">Schedule</h1>
+
+<h2 id="fundamentals">Fundamentals</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Week 1</td>
+      <td style="text-align: left">Introduction</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 1 Introduction.pdf">Lecture 1: Introduction</a><br /><a href="files/ppt/2020/Lecture 2 Data Representation.pdf">Lecture 2: Data Representation</a><br /> Lecture 3: Mathematic Foundation &amp; Basic Concept</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 2</td>
+      <td style="text-align: left">Autoregressive Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 4 Sequential Models - Recurrent Neural Networks.pdf">Lecture 4: Sequential Models  - Recurrent Neural Networks</a> <br /> <a href="files/ppt/2020/Lecture 5 Autoregressive Models.pdf">Lecture 5: Autoregressive Models 1</a> <br /> <a href="files/ppt/2020/Lecture 6 Autoregressive Models.pdf">Lecture 6: Autoregressive Models 2</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 3</td>
+      <td style="text-align: left">Variational Autoencoders</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 7-8 From Autoencoder to VAE.pdf">Lecture 7: From Autoencoder to VAE <br /> Lecture 8: Variational Autoencoder</a> <br /> <a href="files/ppt/2020/Lecture 9 VAE variants.pdf">Lecture 9: VAE Variants</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 4</td>
+      <td style="text-align: left">Normalising Flow Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 10 Normalizing Flow Models.pdf">Lecture 10: Normalising Flow Background</a> <br /> <a href="files/ppt/2020/Lecture 11 Normalizing Flow Models.pdf">Lecture 11: Normalising Flow Models</a> <br /> <a href="files/ppt/2020/Lecture 12 TensorLayer 2.0.pdf">Lecture 12: Deep Learning Development</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 5</td>
+      <td style="text-align: left">Generative Adversarial Networks</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 13 Vanilla GAN.pdf">Lecture 13: Introduction of GAN</a> <br /> <a href="files/ppt/2020/Lecture 14 Understanding GANs.pdf">Lecture 14: Understanding GAN</a>  <br /> <a href="files/ppt/2020/Lecture 15 Selected GANs.pdf">Lecture 15: Selected GANs</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 6</td>
+      <td style="text-align: left">Practice</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 16-18 Practice.pdf">Lecture 16: Variational Autoencoders <br /> Lecture 17: Generative Adversarial Networks <br /> Lecture 18: More: WGAN, LSGAN, VAE-GAN …</a> <br /> <a href="files/ppt/2020/Lecture 16-18 Code.zip">GAN/VAE</a>  <a href="https://github.com/tensorlayer/dcgan">DCGAN</a> <a href="https://github.com/tensorlayer/cyclegan">CycleGAN</a> <a href="https://github.com/tensorlayer/srgan">SRGAN</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="research--application">Research &amp; Application</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Week 7</td>
+      <td style="text-align: left">Evaluation of Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 19 Evaluation - Sampling Quality.pdf">Lecture 19: Sampling Quality</a> <br /> <a href="files/ppt/2020/Lecture 20 Evaluation - Density Evaluation &amp; Latent Representation.pdf">Lecture 20: Density Evaluation &amp; Latent Representation</a> <br /> <a href="files/ppt/2020/Lecture 21 Evaluation - Practice.pdf">Lecture 21: Practice</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 8</td>
+      <td style="text-align: left">Energy-based Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 22 Energy-based Models - Hopfield Network.pdf">Lecture 22: Hopfield Network</a> <br /> <a href="files/ppt/2020/Lecture 23 Energy-based Models - Boltzmann Machine.pdf">Lecture 23: Boltzmann Machine</a> <br /> <a href="files/ppt/2020/Lecture 24 Energy-based Models - Deep Belief Network &amp; GAN.pdf">Lecture 24: GANs</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 9</td>
+      <td style="text-align: left">Discreteness in Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 25 Discreteness in Generative Models - Discrete Sequence Generation.pdf">Lecture 25: Discrete Sequence Generation</a> <br /> Lecture 26: Discrete Latent Variables <br /> <a href="files/ppt/2020/Lecture 27 Discreteness in Generative Models - Generating Graphs.pdf">Lecture 27: Generating Graphs</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 10</td>
+      <td style="text-align: left">Challenges of Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 28 Challenge - High-dimensional Data Generation.pdf">Lecture 28: High-dimensional Data Generation</a> <br /> <a href="files/ppt/2020/Lecture 29 Challenge - Learning Large Encoder.pdf">Lecture 29: Learning Large Encoder</a> <br /> <a href="files/ppt/2020/Lecture 30 Challenge - Others.pdf">Lecture 30: Other Challenges</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 11</td>
+      <td style="text-align: left">Applications of Generative Models</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture 31 Application of Generative Models - Image-to-Image Translation.pdf">Lecture 31: Image Synthesis, Translation and Manipulation</a> <br /> <a href="files/ppt/2020/Lecture 32 Application - X learning.pdf">Lecture 32: X Learning</a> <br /> <a href="files/ppt/2020/Lecture 33 Application - Advanced topics.pdf">Lecture 33: Advanced Topics</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 12</td>
+      <td style="text-align: left">Generative Model Variants</td>
+      <td style="text-align: left"><a href="files/ppt/2020/Lecture34 Generative Model Variants - GLO IMLE GLANN.pdf">Lecture 34: GLO, IMLE, GLANN</a> <br /> Lecture 35: Discussion <br /> Lecture 36: Practice</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="practices">Practices</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left"> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Week 13</td>
+      <td style="text-align: left">Paper Reading</td>
+      <td style="text-align: left"><sub><a href="files/ppt/2020/11-1-董和鑫-Multi-source Domain Adaptation for Semantic Segmentation-NeurIPS2019.pdf">11-1 Multi-source Domain Adaptation for Semantic Segmentation, NeurIPS 2019</a> <br /> <a href="files/ppt/2020/11-2 房晨 桑宇辰_Generating Natural Language Adversarial Examples on a Large Scale with Generative Models_arxiv2020.pdf">11-2 Generating Natural Language Adversarial Examples on a Large Scale with Generative Models, arxiv 2020</a> <br /> <a href="files/ppt/2020/11-3_蒋鸿达_StructureNet_SIGGRAPH_Asia_2019.pptx">11-3 StructureNet, SIGGRAPH Asia 2019</a> <br /> <a href="files/ppt/2020/11-4_朱峰_GANimation_ECCV2018.pdf">11-4 GANimation: Anatomically-aware Facial Animation from a Single Image, ECCV 2018</a> <br /> <a href="files/ppt/2020/11-5_胡晟&amp;陈伟杰_NICE-GAN_CVPR2020.pptx">11-5 Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation, CVPR 2020</a> <br /> <a href="files/ppt/2020/13-1_沈心怡_Learning_Discourse-level_Diversity_for_Neural_Dialog_Models_using_Conditional_Variational_Autoencoders_ACL2017.pdf">13-1 Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders, ACL 2017</a> <br /> <a href="files/ppt/2020/13-2_LiZiyao_MaXiaojun_GCPN_NeurIPS2018.pdf">13-2 Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation, NeurIPS 2018</a> <br /> <a href="files/ppt/2020/13-3_Te+Su_PointFlow_ICCV2019.pdf">13-3 PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, ICCV 2019</a> <br /> <a href="files/ppt/2020/13-4_韩佳乘_PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS_ICLR2020.pptx">13-4 Pretraining Text Encoders As Discriminators Rather Than Generators, ICLR 2020</a> <br /> <a href="files/ppt/2020/13-5_尹衡闯 陶宛玉_ClusterGAN_AAAI2019.pptx">13-5 ClusterGAN, AAAI 2019</a> <br /> <a href="files/ppt/2020/13-6_陈德里_UNILM_NIPS2019.pptx">13-6 Unified Language Model Pre-training for Natural Language Understanding and Generation, NeurIPS 2019</a> <br /> <a href="files/ppt/2020/13-7_李喆琛_初济群_LSGAN_ICCV2017&amp;TPAMI2019.pdf">13-7 LSGAN: Least Squares Generative Adversarial Networks, ICCV 2017 &amp; PAMI 2019</a> <br /> <a href="files/ppt/2020/13-8_刘辉_林哲_leakGAN Long Text Generation via Adversarial Training with Leaked Information_AAAI18.pptx">13-8 LeakGAN: Long Text Generation via Adversarial Training with Leaked Information, AAAI 2018</a> <br /> <a href="files/ppt/2020/13-9_要曙丽_GANPaint Studio_SIGGRAPH2019.pdf">13-9  Semantic Photo Manipulation with a Generative Image Prior, SIGGRAPH 2019</a> <br /> <a href="files/ppt/2020/13-10_冯斌_刘泽群A Style-Based Generator Architecture for Generative_CVPR2019.pptx">13-10 StyleGAN: A Style-Based Generator Architecture for Generative, CVPR 2019</a> <sub></sub></sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 14</td>
+      <td style="text-align: left">Paper Reading</td>
+      <td style="text-align: left"><sub><a href="files/ppt/2020/14-1_高园园_Reconstruction of 3D Porous Media From 2D Slices_arXiv2019.pdf">14-1 Reconstruction of 3D Porous Media From 2D Slices, arXiv 2019</a> <br /> <a href="files/ppt/2020/14-2_刘畅_杨运昌_LevenshteinTransformer_NeurIPS19.pptx">14-2 Levenshtein Transformer, NeurIPS 2019</a> <br /> <a href="files/ppt/2020/14-3_钱浩_PF-Net Point Fractal Network for 3D Point Cloud Completion_CVPR2020.pptx">14-3 PF-Net Point Fractal Network for 3D Point Cloud Completion, CVPR 2020</a> <br /> <a href="files/ppt/2020/14-4_刘欣_ESRGAN Enhanced Super-Resolution Generative Adversarial Networks_ECCV2018.pptx">14-4 ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks, ECCV 2018</a> <br /> <a href="files/ppt/2020/14-5_陈逸凡_Synthesizing Programs for Images using Reinforced Adversarial Learning_ICML18.pptx">14-5 Synthesizing Programs for Images using Reinforced Adversarial Learning, ICML 2018</a> <br /> <a href="files/ppt/2020/14-6_汪文靖_冯家展_Self-supervised GAN_NIPS19.pdf">14-6 Self-supervised GAN, NeurIPS, 2019</a> <br /> <a href="files/ppt/2020/14-7_林大超_a closer look at the optimization landscapes of GANs_ICLR2020.pptx">14-7 A Closer Look at the Optimization Landscapes of GANs, ICLR 2020</a> <br /> <a href="files/ppt/2020/14-8_谢维新_刘家辉_Junction Tree Variational Autoencoder for Molecular Graph Generation_ICML2018.pptx">14-8 Junction Tree Variational Autoencoder for Molecular Graph Generation, ICML 2018</a>  <sub></sub></sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 15</td>
+      <td style="text-align: left">Group Projects</td>
+      <td style="text-align: left"><sub> <a href="files/ppt/2020/15-1_沈心怡_cvae_gpt2_chatbot.pdf">15-1 CVAE-GPT2 Architecture for Diverse Responses Generation</a> <a href="https://github.com/ssxy00/CVAE-Chatbot"><strong>torch</strong></a><br /> <a href="files/ppt/2020/15-2_谢维新_刘家辉_MolLVAE de novo drug design with hierarchical latent representation.pptx">15-2 MolLVAE: de novo drug design with hierarchical latent representation</a> <a href="https://github.com/wxx07/MolLVAE"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/15-3_刘辉_林哲_CVAE_caption.pptx">15-3 CVAE Image Captioning</a> <a href="https://github.com/PKULiuHui/vae_caption"><strong>torch</strong></a><br /> <a href="files/ppt/2020/15-4_陈德里_ACT.pptx">15-4 Attention-Constrained Transformer</a> <a href="https://github.com/victorchen96/fairseq/"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/15-5_李喆琛_初济群_improved_Least_Squares_GAN_______.pdf">15-5 Improving Least Squares GAN</a> <a href="https://github.com/chujiqun/improved-LSGAN"><strong>tensorlayer</strong></a> <br /> <a href="files/ppt/2020/15-7_刘畅_杨运昌_PLM.pptx">15-6 Neural Machine Translation with Permutation Language Modeling</a> <a href="https://github.com/LiuChang97/NMT-PLM"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/15-7_冯斌_刘泽群_Personalizing Adaptation for Meta-Learning-based Dialogue Generation.pdf">15-7 Personalizing Adaptation for Meta- Learning-based Dialogue Generation</a> <a href="https://github.com/zequnl/DeepGenerativeModel2020"><strong>torch</strong></a> <br /> <a href="15-8_蒋鸿达_IM-NET.pptx">15-8 IM-Net1 and Sampling Optimization</a> <a href="https://github.com/jianghd1996/IM-Net_reproduction"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/15-9_林大超_More Closer Look at the Optimization Landscapes of GANs.pptx">15-9 More Closer Look at the Optimization Landscapes of GANs</a> <a href="https://github.com/shayebuhui/deep-generative-model-project"><strong>tensorlayer</strong></a> <sub></sub></sub></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Week 16</td>
+      <td style="text-align: left">Group Projects</td>
+      <td style="text-align: left"><sub> <a href="files/ppt/2020/16-1_Yuanyuan Gao_Application CGAN on Addictive Manufacturing.pdf">16-1 Application CGAN on Addictive Manufacturing</a> <a href="https://github.com/gaoyy007/porosity_GAN"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/16-2-Li,Ziyao_Ma,Xiaojun-Solving_Mode_Collapse_in_MolGAN.pdf">16-2 An effort of solving mode collapse in MolGAN</a> <a href="https://github.com/ZiyaoLi/molgan-without-mode-collapse"><strong>tensorflow</strong></a> <br /> <a href="files/ppt/2020/16-3_朱峰 要曙丽_ GANimation on TensorLayer and thoughts about a better dataset.pdf">16-3 GANimation on TensorLayer and thoughts about a better dataset</a> <a href="https://github.com/shuliyao/GANimation_TL"><strong>tensorlayer</strong></a> <br /> <a href="files/ppt/2020/16-4_尹衡闯_陶宛玉_NB latent clustring in GANdocx.pptx">16-4 NB Latent Space Clustering in GAN</a> <a href="https://github.com/AlbertFreud/deepgenerativemodel2020"><strong>tensorflow</strong></a> <br /> <a href="files/ppt/2020/16-5_钱浩_A Experiment on Point Cloud Completion.pptx">16-5 A Experiment on Point Cloud Completion</a> <a href="https://github.com/InfiniteAndBeyond/DeepGenerativeModel-2020"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/16-6_汪文靖_冯家展_Unsupervised Vid2Vid Translation.pdf">16-6 Unsupervised Vid2Vid Translation</a> <a href="https://github.com/Cyril-JZ/v2v_trans"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/16-7_特古斯_苏嘉俊_Animation_Generation_with_Speech_Signal.pdf">16-7 Animation Generation with Speech Signal</a> <a href="https://github.com/tegusi/animation-generation"><strong>tensorflow</strong></a> <br /> <a href="files/ppt/2020/16-8_房晨_桑宇辰_Generating Natural Language Adversarial Examples.ppt">16-8 Generating Natural Language Adversarial Examples</a> <a href="https://github.com/Randy-whiteSugar/Adversarial-Sample-Generation"><strong>tensorflow</strong></a> <br /> <a href="files/ppt/2020/16-9-董和鑫-Multi-source Domain Adaptation for Semantic Segmentation.pdf">16-9 Multi-source Domain Adaptation for Semantic Segmentation</a> <a href="https://github.com/dhx000/DGM_project"><strong>tensorflow</strong></a> <br /> <a href="files/ppt/2020/16-10_胡晟_陈伟杰_CT2MR_Stroke_ detection.pptx">16-10 CT to MR translation: Stroke Detection</a> <a href="https://github.com/BaozCWJ/CT2MR-project"><strong>torch</strong></a> <br /> <a href="files/ppt/2020/16-11_刘欣_深度学习在图像超分辨率复原中应用.ppt">16-11 Super Resolution</a> <a href="https://github.com/liuxin811/SRGAN-improved"><strong>tensorlayer</strong></a> <br /> <a href="files/ppt/2020/16-12-韩佳乘-SeqGAN in Text Generation.pptx">16-12 SeqGAN in Text Generation</a> <a href="https://github.com/hanjiacheng/DeepGenerativeModelProject"><strong>torch</strong></a> <sub></sub></sub></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="course-staff">Course Staff</h1>
+<ul>
+  <li>Instructor: <a href="http://zsdonghao.github.io">Hao Dong</a></li>
+  <li>Teaching Assistants: <a href="mailto:1600012454@pku.edu.cn">Jialei Huang</a>, <a href="mailto:dreamingshao@pku.edu.cn">Junning Shao</a>, <a href="mailto:wuruihai@pku.edu.cn">Ruihai Wu</a>, <a href="mailto:zjd@pku.edu.cn">Zhijian Duan</a>, <a href="mailto:1600012997@pku.edu.cn">Mingdong Wu</a>, <a href="mailto:1600012997@pku.edu.cn">Xiaotian Li</a>, <a href="mailto:1700013040@pku.edu.cn">Guanqi Zhang</a>, <a href="mailto:zhaoyh98@pku.edu.cn">Yihao Zhao</a>, <a href="mailto:1700017715@pku.edu.cn">Hangrui Bi</a>, <a href="mailto:zhaobingcan0103@pku.edu.cn">Bingcan Zhao</a>, <a href="mailto:yhq@pku.edu.cn">Haoqi Yuan</a></li>
+</ul>
+
+<h1 id="feedback">Feedback</h1>
+<p>For questions, please discuss on the Wechat group. You can also email Dr. Dong at hao.dong@pku.edu.cn.</p>
+
+<h1 id="others">Others</h1>
+
+<div align="center">
+<p float="left">
+
+<a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="http://deep-reinforcement-learning-book.github.io/assets/images/cover_v1.png" width="200" />
+ </a> 
+
+
+<a href="http://www.broadview.com.cn/book/5059">
+  <img src="http://download.broadview.com.cn/ScreenShow/180371146440fada4ad2" width="174" /> 
+</a>
+
+</p>
+</div>
+
+<p><a href="https://deepreinforcementlearningbook.org" target="\_blank">
+  <img src="files/web/water-bottom-min.png" />
+ </a></p>
+
+:ET
