@@ -1,6 +1,8 @@
+<div>
 <a href="https://deepreinforcementlearningbook.org" target="\_blank">
   <img src="images/web/hand-min.png" />
  </a> 
+ </div>
  
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
 
