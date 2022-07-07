@@ -78,8 +78,8 @@ We invite representative researchers from the related areas to give featured tal
 <br>Igor Mordatch at <br> Google Brain
 </td>
 <td><img src="images/speakers/Dan Bohus.png" width="300" height="270" border=0  />
-<br>Dan Bohus, Professor at <br> MIT
-</td>
+<br>Dan Bohus, Senior Principal Researcher at <br> Microsoft Research
+</td> 
 
 </table> 
  
@@ -89,11 +89,22 @@ We invite representative researchers from the related areas to give featured tal
 
 | Time (US/Pacific)         | Speaker     |
 |--------------|-----------|
-| 11:00am-11:30am | xxx     |
-| 11:00am-11:30am | xxx     |
-| 11:00am-11:30am | xxx     |
-| 11:00am-11:30am | xxx     |
-| 11:00am-11:30am | xxx     |
-| 11:00am-11:30am | xxx     |
-| 11:00am-11:30am | xxx     |
-| 11:00am-11:30am | xxx     |
+| 11:00am-11:30am | TBA     |
+| 11:00am-11:30am | TBA     |
+| 11:00am-11:30am | TBA     |
+| 11:00am-11:30am | TBA     |
+| 11:00am-11:30am | TBA     |
+| 11:00am-11:30am | TBA     |
+| 11:00am-11:30am | TBA     |
+| 11:00am-11:30am | TBA     |
+
+
+
+- Vittorio Ferrari, Senior Staff Research Scientist at Google, Honorary Professor at the Uni. of Edinburgh	
+- Shanghang Zhang, Assistant Prof. at Peking Uni.
+- Wei Pan, Associate Prof. at Manchester and TU Delft
+- Pradeep Ravikumar, Associate Prof. at CMU
+- Fisher Yu, Assistant professor at ETH Zurich
+- Hao Dong, Assistant Prof. at Peking Uni.
+- Xin Wang, Senior Researcher at Microsoft Research	
+
