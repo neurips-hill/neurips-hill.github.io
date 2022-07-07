@@ -1,5 +1,5 @@
 <a href="https://deepreinforcementlearningbook.org" target="\_blank">
-  <img src="images/web/water-top-small-min.png" />
+  <img src="images/web/hand-min.png" />
  </a> 
  
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
@@ -117,8 +117,12 @@ We invite representative researchers from the related areas to give featured tal
 - Hao Dong, Assistant Prof. at Peking Uni.
 - Xin Wang, Senior Researcher at Microsoft Research
 - -->	
-
+ 
+ 
+<div>
 
 <a href="https://deepreinforcementlearningbook.org" target="\_blank">
   <img src="images/web/water-bottom-min.png" />
  </a> 
+ 
+ </div>
