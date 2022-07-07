@@ -59,6 +59,7 @@ We invite representative researchers from the related areas to give featured tal
 <td><img src="images/speakers/Danica Kragic.png" width="300" height="270" border=0  />
 <br>Danica Kragic, Professor at <br> Royal Institute of Technology, KTH 
 </td>
+</tr>
 
 <tr>
 <td><img src="images/speakers/Cynthia Rudin.png" width="300" height="270"  border=0 />
@@ -69,6 +70,7 @@ We invite representative researchers from the related areas to give featured tal
 <td><img src="images/speakers/Dorsa Sadigh.png" width="300" height="270" border=0  />
 <br>Dorsa Sadigh, Assistant Professor at <br> Stanford University
 </td>
+</tr>
 
 <tr>
 <td><img src="images/speakers/Brenna Argall.png" width="300" height="270"  border=0 />
@@ -80,6 +82,7 @@ We invite representative researchers from the related areas to give featured tal
 <td><img src="images/speakers/Dan Bohus.png" width="300" height="270" border=0  />
 <br>Dan Bohus, Senior Principal Researcher at <br> Microsoft Research
 </td> 
+</tr>
 
 </table> 
  
