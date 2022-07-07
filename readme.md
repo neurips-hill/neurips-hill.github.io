@@ -1,4 +1,4 @@
-<img src="images/web/hand-min.png" />
+<!--<img src="images/web/hand-min.png" /> -->
 
  
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
@@ -118,6 +118,6 @@ We invite representative researchers from the related areas to give featured tal
 - -->	
  
  
-  <img src="images/web/water-bottom-min.png" />
+<!--  <img src="images/web/water-bottom-min.png" /> -->
 
  
