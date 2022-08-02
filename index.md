@@ -108,16 +108,48 @@ We invite representative researchers from the related areas to give featured tal
 | 11:00am-11:30am | TBA     |
 | 11:00am-11:30am | TBA     |
 
+# Co-chairs
 
 <!--
 - Vittorio Ferrari, Senior Staff Research Scientist at Google, Honorary Professor at the Uni. of Edinburgh
 - Shanghang Zhang, Assistant Prof. at Peking Uni.
 - Wei Pan, Associate Prof. at Manchester and TU Delft
-- Pradeep Ravikumar, Associate Prof. at CMU
+- Pradeep Ravikumar, Prof. at CMU
 - Fisher Yu, Assistant professor at ETH Zurich
 - Hao Dong, Assistant Prof. at Peking Uni.
 - Xin Wang, Senior Researcher at Microsoft Research
 - -->	
+ 
+<table> 
+
+<tr>
+<td><img src="images/chairs/shanghang.png" width="300" height="270"  border=0 />
+<br>Shanghang Zhang, Assistant Professor at <br> Peking University
+</td>
+<td><img src="images/chairs/haodong.png" width="300" height="270"  border=0 />
+<br>Hao Dong, Assistant Professor at <br> Peking University
+</td>
+<td><img src="images/chairs/fisheryu.png" width="300" height="270" border=0  />
+<br>Fisher Yu, Assistant Professor at <br> ETH Zurich </td> 
+<td><img src="images/chairs/PradeepRavikumar.png" width="300" height="270"  border=0 />
+<br>Pradeep Ravikumar, Professor at <br> CMU
+</td>
+
+</tr>
+<tr>
+<td><img src="images/chairs/xinwang.png" width="300" height="270"  border=0 />
+<br>Xin Wang, Senior Researcher at <br> Microsoft Research
+</td>
+<td><img src="images/chairs/weipan.png" width="300" height="270"  border=0 />
+<br>Wei Pan, Assistant Professor at <br> University of Manchester
+</td>
+<td><img src="images/chairs/VittorioFerrari.png" width="300" height="270" border=0  />
+<br>Vittorio Ferrari, Senior Staff Research Scientist at <br> Google <br> Honorary Professor at <br> University of Edinburgh
+ </td>
+</tr>
+
+</table> 
+ 
  
  
 <!--  <img src="images/web/water-bottom-min.png" /> -->
