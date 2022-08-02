@@ -99,7 +99,9 @@ We invite representative researchers from the related areas to give featured tal
 # Agenda of HILL Workshop @ NeurIPS 2022
 
 
-| Time (US/Pacific)         | Speaker     |
+<font size=5> Coming Soon :) </font>
+
+<!--| Time (US/Pacific)         | Speaker     |
 |--------------|-----------|
 | 11:00am-11:30am | TBA     |
 | 11:00am-11:30am | TBA     |
@@ -109,7 +111,7 @@ We invite representative researchers from the related areas to give featured tal
 | 11:00am-11:30am | TBA     |
 | 11:00am-11:30am | TBA     |
 | 11:00am-11:30am | TBA     |
-
+-->
 # Co-chairs
 
 <!--
