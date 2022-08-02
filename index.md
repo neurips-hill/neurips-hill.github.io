@@ -134,18 +134,18 @@ We invite representative researchers from the related areas to give featured tal
 <br>Hao Dong, Assistant Professor at <br> Peking University
 </td>
 <td><img src="images/chairs/fisheryu.png" width="300" height="200" border=0  />
-<br>Fisher Yu, Assistant Professor at <br> ETH Zurich </td> 
+<br>Fisher Yu, Assistant Professor <br>  at ETH Zurich </td> 
 <td><img src="images/chairs/PradeepRavikumar.png" width="300" height="220"  border=0 />
-<br>Pradeep Ravikumar, Professor at <br> CMU
+<br>Pradeep Ravikumar,  <br>  Professor at CMU
 </td>
 
 </tr>
 <tr>
 <td><img src="images/chairs/xinwang.png" width="300" height="200"  border=0 />
-<br>Xin Wang, Senior Researcher at <br> Microsoft Research
+<br>Xin Wang, Senior Researcher <br> at Microsoft Research
 </td>
 <td><img src="images/chairs/weipan.png" width="300" height="200"  border=0 />
-<br>Wei Pan, Assistant Professor at <br> University of Manchester
+<br>Wei Pan, Assistant Professor <br> at University of Manchester
 </td>
 <td><img src="images/chairs/VittorioFerrari.png" width="300" height="200" border=0  />
 <br>Vittorio Ferrari, Senior <br> Research Scientist at Google <br> Honorary Professor at <br>University of Edinburgh
