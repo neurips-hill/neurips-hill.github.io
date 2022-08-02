@@ -30,13 +30,15 @@ We invite submissions of full papers, as well as works-in-progress, position pap
 
 Papers can be submitted through CMT:
 ​
-[https://cmt3.research.microsoft.com/TBA](xxxx)
+[ https://cmt3.research.microsoft.com/NeurIPSHILL2022]( https://cmt3.research.microsoft.com/NeurIPSHILL2022)
+
+Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.com)
 
 # Important Dates
 
-- Submission deadline: TBA
-- Acceptance notification: TBA
-- Workshop data: TBA
+- Submission deadline: Sep 22, 2022
+- Acceptance notification: Oct 14, 2022
+- Workshop data: Dec 2, 2022
 
 
 # Speakers of HILL Workshop @ NeurIPS 2022
@@ -123,28 +125,28 @@ We invite representative researchers from the related areas to give featured tal
 <table> 
 
 <tr>
-<td><img src="images/chairs/shanghang.png" width="300" height="270"  border=0 />
+<td><img src="images/chairs/shanghang.png" width="300" height="200"  border=0 />
 <br>Shanghang Zhang, Assistant Professor at <br> Peking University
 </td>
-<td><img src="images/chairs/haodong.png" width="300" height="270"  border=0 />
+<td><img src="images/chairs/haodong.png" width="300" height="200"  border=0 />
 <br>Hao Dong, Assistant Professor at <br> Peking University
 </td>
-<td><img src="images/chairs/fisheryu.png" width="300" height="270" border=0  />
+<td><img src="images/chairs/fisheryu.png" width="300" height="200" border=0  />
 <br>Fisher Yu, Assistant Professor at <br> ETH Zurich </td> 
-<td><img src="images/chairs/PradeepRavikumar.png" width="300" height="270"  border=0 />
+<td><img src="images/chairs/PradeepRavikumar.png" width="300" height="200"  border=0 />
 <br>Pradeep Ravikumar, Professor at <br> CMU
 </td>
 
 </tr>
 <tr>
-<td><img src="images/chairs/xinwang.png" width="300" height="270"  border=0 />
+<td><img src="images/chairs/xinwang.png" width="300" height="200"  border=0 />
 <br>Xin Wang, Senior Researcher at <br> Microsoft Research
 </td>
-<td><img src="images/chairs/weipan.png" width="300" height="270"  border=0 />
+<td><img src="images/chairs/weipan.png" width="300" height="200"  border=0 />
 <br>Wei Pan, Assistant Professor at <br> University of Manchester
 </td>
-<td><img src="images/chairs/VittorioFerrari.png" width="300" height="270" border=0  />
-<br>Vittorio Ferrari, Senior Staff Research Scientist at <br> Google <br> Honorary Professor at <br> University of Edinburgh
+<td><img src="images/chairs/VittorioFerrari.png" width="300" height="200" border=0  />
+<br>Vittorio Ferrari, Senior <br> Research Scientist at Google <br> Honorary Professor at <br>University of Edinburgh
  </td>
 </tr>
 
