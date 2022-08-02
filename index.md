@@ -127,15 +127,15 @@ We invite representative researchers from the related areas to give featured tal
 <table> 
 
 <tr>
-<td><img src="images/chairs/shanghang.png" width="300" height="200"  border=0 />
+<td><img src="images/chairs/shanghang.png" width="300" height="220"  border=0 />
 <br>Shanghang Zhang, Assistant Professor at <br> Peking University
 </td>
-<td><img src="images/chairs/haodong.png" width="300" height="200"  border=0 />
+<td><img src="images/chairs/haodong.png" width="300" height="220"  border=0 />
 <br>Hao Dong, Assistant Professor at <br> Peking University
 </td>
 <td><img src="images/chairs/fisheryu.png" width="300" height="200" border=0  />
 <br>Fisher Yu, Assistant Professor at <br> ETH Zurich </td> 
-<td><img src="images/chairs/PradeepRavikumar.png" width="300" height="200"  border=0 />
+<td><img src="images/chairs/PradeepRavikumar.png" width="300" height="220"  border=0 />
 <br>Pradeep Ravikumar, Professor at <br> CMU
 </td>
 
