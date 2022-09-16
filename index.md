@@ -38,10 +38,13 @@ Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.co
 
 # Important Dates
 
-- Submission deadline: Sep 22, 2022
+- Submission deadline: Sep <del>22</del> 29, 2022
 - Acceptance notification: Oct 14, 2022
 - Workshop data: Dec 2, 2022
 
+<font color=#FF0000 >
+High-quality papers of NeurIPS 2022 Workshop on Human in the Loop Learning will be recommended to publish with Machine Intelligence Research (EI and ESCI indexed journal).
+</font>
 
 # Speakers of HILL Workshop @ NeurIPS 2022
 We invite representative researchers from the related areas to give featured talks. We are honored to have the following speakers:
