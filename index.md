@@ -42,13 +42,11 @@ Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.co
 - Acceptance notification: Oct 14, 2022
 - Workshop data: Dec 2, 2022
 
-<td>
-<font color=#FF0000>
-We will select **best paper** this year.
 
-High-quality papers of NeurIPS 2022 Workshop on Human in the Loop Learning will be recommended to publish with Machine Intelligence Research (EI and ESCI indexed journal).
-</font>
-</td>
+- We will select **best paper** this year.
+
+- High-quality papers of NeurIPS 2022 Workshop on Human in the Loop Learning will be recommended to publish with **Machine Intelligence Research** (EI and ESCI indexed journal).
+
 
 # Speakers of HILL Workshop @ NeurIPS 2022
 We invite representative researchers from the related areas to give featured talks. We are honored to have the following speakers:
