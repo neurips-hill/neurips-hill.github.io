@@ -28,7 +28,7 @@ These topics span a variety of scientific disciplines and application domains li
 
 We invite submissions of full papers, as well as works-in-progress, position papers, and papers describing open problems and challenges. While original contributions are preferred, we also invite submissions of high-quality work that has recently been published in other venues or is concurrently submitted. We encourage creative ML approaches, as well as interdisciplinarity and perspectives from outside traditional ML. Papers should be 4-8 pages in length (excluding references) formatted using the NeurIPS template. All the submissions should be anonymous. The accepted papers are allowed to get submitted to other conference venues. 
 
-We will select **best paper** this year.
+
 
 Papers can be submitted through CMT:
 ​
@@ -44,6 +44,8 @@ Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.co
 
 <td>
 <font color=#FF0000>
+We will select **best paper** this year.
+
 High-quality papers of NeurIPS 2022 Workshop on Human in the Loop Learning will be recommended to publish with Machine Intelligence Research (EI and ESCI indexed journal).
 </font>
 </td>
