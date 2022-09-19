@@ -166,11 +166,11 @@ We invite representative researchers from the related areas to give featured tal
 Machine Intelligence Research (original title: International Journal of Automation and Computing), published by Springer, and sponsored by Institute of Automation, Chinese Academy of Sciences, is formally released in 2022. The journal publishes high-quality papers on original theoretical and experimental research, targets special issues on emerging topics and specific subjects, and strives to bridge the gap between theoretical research and practical applications. The journal has been indexed by ESCI, EI, Scopus, CSCD, etc. 
 
 - MIR official websites：
-	- 1）https://www.springer.com/journal/11633
-	- 2）https://www.mi-research.net/
+	- https://www.springer.com/journal/11633
+	- https://www.mi-research.net/
 
 - MIR Editor-in-Chief：
- 	- Tan Tieniu, Institue of Automation, Chinese Academy of Sciences
+ 	- Tan Tieniu, Institute of Automation, Chinese Academy of Sciences
 
 - MIR Associate Editors-in-Chief：
 	- Liang Wang, Chinese Academy of Sciences, China
@@ -178,7 +178,7 @@ Machine Intelligence Research (original title: International Journal of Automati
 	- Brian C. Lovell, The University of Queensland, Australia
  
  <a href="https://" target="\_blank">
-  <img src="images/web/mir.png" width="300"  />
+  <img src="images/web/mir_cover.jpeg" width="200"  />
  </a> 
 
  
