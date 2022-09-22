@@ -40,7 +40,7 @@ Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.co
 
 - Submission deadline: Sep <del>22</del> 29, 2022
 - Acceptance notification: Oct 14, 2022
-- Workshop data: Dec 2, 2022
+- Workshop date: Dec 2, 2022
 
 
 - We will select **best paper** this year.
