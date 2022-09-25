@@ -38,8 +38,8 @@ Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.co
 
 # Important Dates
 
-- Submission deadline: Sep <del>22</del> 29, 2022
-- Acceptance notification: Oct 14, 2022
+- Submission deadline: 24:00 Pacific Time (PT), Sep 29, 2022
+- Acceptance notification: 24:00 Pacific Time (PT), Oct 14, 2022
 - Workshop date: Dec 2, 2022
 
 
@@ -167,7 +167,7 @@ Machine Intelligence Research (original title: International Journal of Automati
 
 - MIR official websites
 	- https://www.springer.com/journal/11633
-	- https://www.mi-research.net/
+	- https://www.mi-research.net
 
 - MIR Editor-in-Chief
  	- Tan Tieniu, Institute of Automation, Chinese Academy of Sciences
