@@ -38,8 +38,8 @@ Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.co
 
 # Important Dates
 
-- Submission deadline: 24:00 Pacific Time (PT), Sep 29, 2022
-- Acceptance notification: 24:00 Pacific Time (PT), Oct 14, 2022
+- Submission deadline: 24:00 Pacific Time (PT), <del> Sep 29 </del> **Oct 4**, 2022
+- Acceptance notification: 24:00 Pacific Time (PT), <del>Oct 14</del> **Oct 30**, 2022
 - Workshop date: Dec 2, 2022
 
 
