@@ -39,7 +39,8 @@ Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.co
 # Important Dates
 
 - Submission deadline: 24:00 Pacific Time (PT), <del> Sep 29 </del> **Oct 7**, 2022
-- Acceptance notification: 24:00 Pacific Time (PT), <del>Oct 14</del> **Oct 30**, 2022
+- Acceptance notification: 24:00 Pacific Time (PT), <del>Oct 14</del> **Oct 27**, 2022
+- camera-ready deadline: 24:00 Pacific Time (PT), Nov 3, 2022
 - Workshop date: Dec 2, 2022
 
 
@@ -100,25 +101,37 @@ We invite representative researchers from the related areas to give featured tal
 </td> 
 </tr>
 
+<tr>
+<td><img src="images/speakers/Ding Zhao.png" width="300" height="270"  border=0 />
+<br>Ding Zhao, Assistant Professor at <br> CMU
+</td>
+
+</tr>
+
 </table> 
  
 
 # Agenda of HILL Workshop @ NeurIPS 2022
 
+<!--
+<font size=5> Coming Soon :) </font>-->
 
-<font size=5> Coming Soon :) </font>
+| Time (US/Pacific)         | Speaker     |   Title
+|--------------|-----------|-----------|
+| 11:00am-11:30am | Alison Gopnik  |  	|
+| 11:00am-11:30am | Peter Stone    |  	|
+| 11:00am-11:30am | Sarit Kraus    |  	|
+| 11:00am-11:30am | Samuel Kaski   |  	|
+| 11:00am-11:30am | Lydia Kavraki  |  	|
+| 11:00am-11:30am | Danica Kragic  |  	|
+| 11:00am-11:30am | Cynthia Rudin  |		|
+| 11:00am-11:30am | Jens Kober     |		|
+| 11:00am-11:30am | Dorsa Sadigh   |		|
+| 11:00am-11:30am | Brenna Argall  |		|
+| 11:00am-11:30am | Igor Mordatch  |		|
+| 11:00am-11:30am | Dan Bohus      |		|
+| 11:00am-11:30am | Ding Zhao      |	Evaluation of  Long-Tailed High-Stakes Human-Machine Interaction	|
 
-<!--| Time (US/Pacific)         | Speaker     |
-|--------------|-----------|
-| 11:00am-11:30am | TBA     |
-| 11:00am-11:30am | TBA     |
-| 11:00am-11:30am | TBA     |
-| 11:00am-11:30am | TBA     |
-| 11:00am-11:30am | TBA     |
-| 11:00am-11:30am | TBA     |
-| 11:00am-11:30am | TBA     |
-| 11:00am-11:30am | TBA     |
--->
 # Co-chairs
 
 <!--
