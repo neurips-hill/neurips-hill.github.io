@@ -111,9 +111,9 @@ We invite representative researchers from the related areas to give featured tal
 </table> 
  
 
-# Agenda of HILL Workshop @ NeurIPS 2022
+# Agenda of HILL Workshop @ NeurIPS 2022 (TBD)
 
-Will change
+**Will be changed later ...**
 
 <!--
 <font size=5> Coming Soon :) </font>-->
