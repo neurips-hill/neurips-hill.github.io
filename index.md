@@ -113,24 +113,27 @@ We invite representative researchers from the related areas to give featured tal
 
 # Agenda of HILL Workshop @ NeurIPS 2022
 
+Will change
+
 <!--
 <font size=5> Coming Soon :) </font>-->
 
 | Time (US/Pacific)         | Speaker     |   Title
 |--------------|-----------|-----------|
-| 11:00am-11:30am | Alison Gopnik  |  	|
-| 11:00am-11:30am | Peter Stone    |  	|
-| 11:00am-11:30am | Sarit Kraus    |  	|
-| 11:00am-11:30am | Samuel Kaski   |  	|
-| 11:00am-11:30am | Lydia Kavraki  |  	|
+| 8:00am-8:30am | Jens Kober  | Interactive Imitation Learning in Robotics 	|
+| 8:30am-9:00am | Peter Stone    | Human in the Loop Learning for Robot Navigation and Task Learning from Implicit Human Feedback 	|
+| 9:00am-9:30am | Sarit Kraus    |  	|
+| 9:30am-10:00am | Samuel Kaski   |  	|
+| 10:00am-10:30am | Lydia Kavraki  |  	|
 | 11:00am-11:30am | Danica Kragic  |  	|
-| 11:00am-11:30am | Cynthia Rudin  |		|
-| 11:00am-11:30am | Jens Kober     |		|
-| 11:00am-11:30am | Dorsa Sadigh   |		|
-| 11:00am-11:30am | Brenna Argall  |		|
-| 11:00am-11:30am | Igor Mordatch  |		|
-| 11:00am-11:30am | Dan Bohus      |		|
-| 11:00am-11:30am | Ding Zhao      |	Evaluation of  Long-Tailed High-Stakes Human-Machine Interaction	|
+| 11:30am-12:00am | Cynthia Rudin  |		|
+| 12:00am--13:00am |   |	Break	|
+| 13:00am-13:30am | Brenna Argall  |		|
+| 13:30am-14:00am | Igor Mordatch  |		|
+| 14:30am-15:00am | Dan Bohus      |		|
+| 15:00am-15:30am | Alison Gopnik  | Imitation,innovation and caregiving in children and AI	|
+| 15:30am-16:30am | Dorsa Sadigh   |		|
+| 16:30am-17:00am | Ding Zhao      |	Evaluation of  Long-Tailed High-Stakes Human-Machine Interaction	|
 
 # Co-chairs
 
