@@ -5,6 +5,12 @@
  
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
 
+
+<span style="color:red;font-weight:700;font-size:20px">
+    **Due to cov-19, many authors cannot attend the workshop in person. After discussing with other organisers, the workshop will be organised in a hybrid mode. An official announcement and a poster upload link will come later.**
+</span>
+
+
 Recent years have witnessed the rising need for machine learning systems that can interact with humans in the learning loop. Such systems can be applied to computer vision, natural language processing, robotics, and human-computer interaction. Creating and running such systems call for interdisciplinary research of artificial intelligence, machine learning, and software engineering design, which we abstract as Human in the Loop Learning (HiLL). 
 
 The HiLL workshop aims to bring together researchers and practitioners working on the broad areas of HiLL, ranging from interactive/active learning algorithms for real-world decision-making systems (e.g., autonomous driving vehicles, robotic systems, etc.), human-inspired learning that mitigates the gap between human intelligence and machine intelligence, human-machine collaborative learning that creates a more powerful learning system, lifelong learning that transfers knowledge to learn new tasks over a lifetime, as well as interactive system designs  (e.g., data visualization, annotation systems, etc.). 
@@ -113,6 +119,8 @@ We invite representative researchers from the related areas to give featured tal
 
 # Agenda of HILL Workshop @ NeurIPS 2022 (TBD)
 
+Dec 2, 2022, New Orleans, USA
+
 **Will be changed later ...**
 
 <!--
@@ -131,7 +139,7 @@ We invite representative researchers from the related areas to give featured tal
 | 14:00am-14:30am | Brenna Argall  |		|
 | 14:30am-15:00am | Igor Mordatch  |		|
 | 15:00am-15:30am | Dan Bohus      |		|
-| 15:30am-16:00am | Alison Gopnik  | Imitation,innovation and caregiving in children and AI	|
+| 15:30am-16:00am | Alison Gopnik  | Imitation, Innovation and Caregiving in Children and AI	|
 | 16:00am-16:30am | Dorsa Sadigh   |		|
 | 16:30am-17:00am | Ding Zhao      |	Evaluation of  Long-Tailed High-Stakes Human-Machine Interaction	|
 
@@ -171,7 +179,7 @@ We invite representative researchers from the related areas to give featured tal
 <br>Wei Pan, Assistant Professor <br> at University of Manchester
 </td>
 <td><img src="images/chairs/VittorioFerrari.png" width="300" height="200" border=0  />
-<br>Vittorio Ferrari, Senior <br> Research Scientist at Google <br> Honorary Professor at <br>University of Edinburgh
+<br>Vittorio Ferrari <br> Principal Scientist at Google <br> Honorary Professor at <br>University of Edinburgh
  </td>
 </tr>
 
