@@ -11,8 +11,11 @@
     
 </span>
 
-<p align="center"><a href=https://neurips.cc/virtual/2022/workshop/49957><font size="7">click to join</font></a></p>
-
+<center>
+<a href="https://neurips.cc/virtual/2022/workshop/49957">
+  <img src="images/web/click2join.png"  width="300" />
+ </a> 
+ </center>
 
 
 
