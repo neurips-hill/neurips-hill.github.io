@@ -8,12 +8,7 @@
 
 <span style="color:red;font-weight:700;font-size:20px">
     **Due to cov-19, many authors cannot attend the workshop in person. After discussing with other organisers, the workshop will be organised in a hybrid mode. An official announcement and a poster upload link will come later.**
-    
 </span>
-
-<p align="center"><a href=https://neurips.cc/virtual/2022/workshop/49957><font size="7">click to join</font></a></p>
-
-
 
 
 Recent years have witnessed the rising need for machine learning systems that can interact with humans in the learning loop. Such systems can be applied to computer vision, natural language processing, robotics, and human-computer interaction. Creating and running such systems call for interdisciplinary research of artificial intelligence, machine learning, and software engineering design, which we abstract as Human in the Loop Learning (HiLL). 
@@ -72,17 +67,17 @@ We invite representative researchers from the related areas to give featured tal
 <td><img src="images/speakers/Peter Stone-min.png" width="300" height="270"  border=0 />
 <br>Peter Stone, Professor at <br> University of Texas at Austin 
 </td>
-<td><img src="images/speakers/Dan Bohus-min.png" width="300" height="270" border=0  />
-<br>Dan Bohus, Senior Principal Researcher at <br> Microsoft Research
-</td> 
+<td><img src="images/speakers/Sarit Kraus-min.png" width="300" height="270" border=0  />
+<br>Sarit Kraus, Professor at <br> Bar-Ilan University
+</td>
 </tr>
 
 <tr>
 <td><img src="images/speakers/Samuel Kaski-min.png" width="300" height="270"  border=0 />
 <br>Samuel Kaski, Professor at <br> University of Manchester and Aalto University
 </td>
-<td><img src="images/speakers/Ding Zhao.png" width="300" height="270"  border=0 />
-<br>Ding Zhao, Assistant Professor at <br> CMU
+<td><img src="images/speakers/Lydia Kavraki-min.png" width="300" height="270"  border=0 />
+<br>Lydia Kavraki, Professor at <br> Rice University
 </td>
 <td><img src="images/speakers/Danica Kragic-min.png" width="300" height="270" border=0  />
 <br>Danica Kragic, Professor at <br> Royal Institute of Technology, KTH 
@@ -107,12 +102,46 @@ We invite representative researchers from the related areas to give featured tal
 <td><img src="images/speakers/Igor Mordatch-min.png" width="300" height="270"  border=0 />
 <br>Igor Mordatch at <br> Google Brain
 </td>
+<td><img src="images/speakers/Dan Bohus-min.png" width="300" height="270" border=0  />
+<br>Dan Bohus, Senior Principal Researcher at <br> Microsoft Research
+</td> 
+</tr>
+
+<tr>
+<td><img src="images/speakers/Ding Zhao.png" width="300" height="270"  border=0 />
+<br>Ding Zhao, Assistant Professor at <br> CMU
+</td>
 
 </tr>
 
-
 </table> 
  
+
+# Agenda of HILL Workshop @ NeurIPS 2022 (TBD)
+
+Dec 2, 2022, New Orleans, USA
+
+**Will be changed later ...**
+
+<!--
+<font size=5> Coming Soon :) </font>-->
+
+| Time (US/Pacific)         | Speaker     |   Topic (TBD)
+|--------------|-----------|-----------|
+| 8:00am-8:30am | Jens Kober  | Interactive Imitation Learning in Robotics |
+| 8:30am-9:00am | Peter Stone    | Human in the Loop Learning for Robot Navigation and Task Learning from Implicit Human Feedback |
+| 9:00am-9:30am | Sarit Kraus    |  	|
+| 9:30am-10:00am | Samuel Kaski   |  	|
+| 10:00am-10:30am | Lydia Kavraki  |  	|
+| 10:30am-11:00am | Danica Kragic  |  	|
+| 11:00am-11:30am | Cynthia Rudin  |		|
+| 11:30am--14:00am |   |	Break	|
+| 14:00am-14:30am | Brenna Argall  |		|
+| 14:30am-15:00am | Igor Mordatch  |		|
+| 15:00am-15:30am | Dan Bohus      |		|
+| 15:30am-16:00am | Alison Gopnik  | Imitation, Innovation and Caregiving in Children and AI	|
+| 16:00am-16:30am | Dorsa Sadigh   |		|
+| 16:30am-17:00am | Ding Zhao      |	Evaluation of  Long-Tailed High-Stakes Human-Machine Interaction	|
 
 # Co-chairs
 
