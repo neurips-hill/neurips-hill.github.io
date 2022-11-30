@@ -6,9 +6,6 @@
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
 
 
-<span style="color:red;font-weight:700;font-size:20px">
-    **Due to cov-19, many authors cannot attend the workshop in person. After discussing with other organisers, the workshop will be organised in a hybrid mode. An official announcement and a poster upload link will come later.**
-</span>
 
 <center>
 <a href="https://neurips.cc/virtual/2022/workshop/49957">
