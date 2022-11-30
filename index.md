@@ -151,6 +151,8 @@ We invite representative researchers from the related areas to give featured tal
 <td><img src="images/chairs/VittorioFerrari.png" width="300" height="200" border=0  />
 <br>Vittorio Ferrari <br> Principal Scientist at Google <br> Honorary Professor at <br>University of Edinburgh
  </td>
+ <td><img src="images/chairs/zihanding.png" width="300" height="200" border=0  />
+<br>Zihan Ding<br> PhD at <br> Princeton University </td>
 </tr>
 
 </table> 
