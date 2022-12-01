@@ -7,11 +7,13 @@
 
 
 
-<center>
-<a href="https://neurips.cc/virtual/2022/workshop/49957">
-  <img src="images/web/click2join.png"  width="300" />
- </a> 
- </center>
+<span style="color:red;font-weight:700;font-size:20px">
+    For in-person audiences, please join us in Room 396. The workshop schedule can be found <a href="https://neurips.cc/virtual/2022/workshop/49957">here</a>.
+</span>
+
+<span style="color:red;font-weight:700;font-size:20px">
+    For online audiences, please click <a href="https://neurips.cc/virtual/2022/workshop/49957">here</a> to join the workshop. You can get the zoom link after registration.
+</span>
 
 
 
