@@ -24,53 +24,6 @@ For the 1st HiLL Workshop at NeurIPS 2022, we have over 120 submissions and acce
 
 
 
-# Call for Papers
-
-<details><summary><b><font color="1367a7">show mores </font></b></summary>
-
-We welcome high-quality submissions on algorithms and system designs in the broad area of human in the loop learning. The topics of HiLL include but are not limited to:
-
--	Human-machine collaborative learning,
--	Human-inspired learning,
--	Interactive robot learning,
--	Interactive machine learning algorithms for autonomous decision-making systems,
--	Lifelong learning systems,
--	Online learning and active learning,
--	Psychology driven human concept learning,
--	Design, testing, and assessment of interactive systems for data analytics.
-
-These topics span a variety of scientific disciplines and application domains like machine learning, human-computer interaction, cognitive science, and robotics. It is an opportunity for scientists in these disciplines to share their perspectives, discuss solutions to common problems and highlight the challenges in the field to help guide future research. The target audience for the workshop includes people who are interested in using machines to solve problems by having a human be an integral part of the learning process. 
-
-
-We invite submissions of full papers, as well as works-in-progress, position papers, and papers describing open problems and challenges. While original contributions are preferred, we also invite submissions of high-quality work that has recently been published in other venues or is concurrently submitted. We encourage creative ML approaches, as well as interdisciplinarity and perspectives from outside traditional ML. **Papers should be 4-8 pages in length (excluding references, checklist and appendix) formatted using the [NeurIPS template](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles)**. All the submissions should be anonymous. The accepted papers are allowed to get submitted to other conference venues. 
-
-
-
-Papers can be submitted through CMT:
-​
-[ https://cmt3.research.microsoft.com/NeurIPSHILL2022]( https://cmt3.research.microsoft.com/NeurIPSHILL2022)
-
-Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.com)
-</details>
-
-
-# Important Dates
-<details><summary><b><font color="1367a7">show mores </font></b></summary>
-
-- Submission deadline: 24:00 Pacific Time (PT), <del> Sep 29 </del> **Oct 7**, 2022
-
-- Acceptance notification: 24:00 Pacific Time (PT), <del>Oct 14</del> **Oct 27**, 2022
-
-- camera-ready deadline: 24:00 Pacific Time (PT), Nov 3, 2022
-
-- **Workshop date: 8:30~17:00, Dec 2, 2022, New Orleans time [click to join](https://neurips.cc/virtual/2022/workshop/49957)**
-
-- We will select **best paper** this year.
-
-- High-quality papers of NeurIPS 2022 Workshop on Human in the Loop Learning will be recommended to publish with **Machine Intelligence Research** (EI and ESCI indexed journal).
-</details>
-
-
 # Speakers of HILL Workshop @ NeurIPS 2022
 We invite representative researchers from the related areas to give featured talks. We are honored to have the following speakers:
 
@@ -168,6 +121,52 @@ We invite representative researchers from the related areas to give featured tal
 </tr>
 
 </table> 
+
+
+# Call for Papers
+
+
+We welcome high-quality submissions on algorithms and system designs in the broad area of human in the loop learning. The topics of HiLL include but are not limited to:
+
+-	Human-machine collaborative learning,
+-	Human-inspired learning,
+-	Interactive robot learning,
+-	Interactive machine learning algorithms for autonomous decision-making systems,
+-	Lifelong learning systems,
+-	Online learning and active learning,
+-	Psychology driven human concept learning,
+-	Design, testing, and assessment of interactive systems for data analytics.
+
+These topics span a variety of scientific disciplines and application domains like machine learning, human-computer interaction, cognitive science, and robotics. It is an opportunity for scientists in these disciplines to share their perspectives, discuss solutions to common problems and highlight the challenges in the field to help guide future research. The target audience for the workshop includes people who are interested in using machines to solve problems by having a human be an integral part of the learning process. 
+
+
+We invite submissions of full papers, as well as works-in-progress, position papers, and papers describing open problems and challenges. While original contributions are preferred, we also invite submissions of high-quality work that has recently been published in other venues or is concurrently submitted. We encourage creative ML approaches, as well as interdisciplinarity and perspectives from outside traditional ML. **Papers should be 4-8 pages in length (excluding references, checklist and appendix) formatted using the [NeurIPS template](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles)**. All the submissions should be anonymous. The accepted papers are allowed to get submitted to other conference venues. 
+
+
+
+Papers can be submitted through CMT:
+​
+[ https://cmt3.research.microsoft.com/NeurIPSHILL2022]( https://cmt3.research.microsoft.com/NeurIPSHILL2022)
+
+Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.com)
+
+
+
+# Important Dates
+
+
+- Submission deadline: 24:00 Pacific Time (PT), <del> Sep 29 </del> **Oct 7**, 2022
+
+- Acceptance notification: 24:00 Pacific Time (PT), <del>Oct 14</del> **Oct 27**, 2022
+
+- camera-ready deadline: 24:00 Pacific Time (PT), Nov 3, 2022
+
+- **Workshop date: 8:30~17:00, Dec 2, 2022, New Orleans time [click to join](https://neurips.cc/virtual/2022/workshop/49957)**
+
+- We will select **best paper** this year.
+
+- High-quality papers of NeurIPS 2022 Workshop on Human in the Loop Learning will be recommended to publish with **Machine Intelligence Research** (EI and ESCI indexed journal).
+
 
 # Co-sponsor: Machine Intelligence Research
 
