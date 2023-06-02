@@ -6,24 +6,28 @@
 <center><font size=6 color=black > <b> NeurIPS 2022 Workshop on Human in the Loop Learning </b> </font></center>
 
 
-
-<span style="color:red;font-weight:700;font-size:20px">
-    For in-person audiences, please join us in Room 396. The workshop schedule can be found <a href="https://neurips.cc/virtual/2022/workshop/49957">here</a>.
-</span>
-
-<span style="color:red;font-weight:700;font-size:20px">
-    For online audiences, please click <a href="https://neurips.cc/virtual/2022/workshop/49957">here</a> to join the workshop. You can get the zoom link after registration.
-</span>
-
-
-
 Recent years have witnessed the rising need for machine learning systems that can interact with humans in the learning loop. Such systems can be applied to computer vision, natural language processing, robotics, and human-computer interaction. Creating and running such systems call for interdisciplinary research of artificial intelligence, machine learning, and software engineering design, which we abstract as Human in the Loop Learning (HiLL). 
 
 The HiLL workshop aims to bring together researchers and practitioners working on the broad areas of HiLL, ranging from interactive/active learning algorithms for real-world decision-making systems (e.g., autonomous driving vehicles, robotic systems, etc.), human-inspired learning that mitigates the gap between human intelligence and machine intelligence, human-machine collaborative learning that creates a more powerful learning system, lifelong learning that transfers knowledge to learn new tasks over a lifetime, as well as interactive system designs  (e.g., data visualization, annotation systems, etc.). 
 
 The HiLL workshop continues the previous effort to provide a platform for researchers from interdisciplinary areas to share their recent research. In this year’s workshop, a special feature is to encourage the discussion on the interactive and collaborative learning between human and machine learning agents: Can they be organically combined to create a more powerful learning system? We believe the theme of the workshop will be of interest to broad NeurIPS attendees, especially those who are interested in interdisciplinary study. 
 
+# Accepted Papers
+
+For the 1st HiLL Workshop at NeurIPS 2022, we have over 120 submissions and accepted 64 high-quality papers. The country distribution of accepted papers is shown in the following figure. All accepted papers can be found <a href="https://neurips.cc/virtual/2022/workshop/49957">here</a>.
+
+<p align="center">
+ <img src="images/web/paper-distribution.png" alt="Trulli" style="width:40%" >
+ <p/>
+ 
+ <figcaption align = "center"><b>Country distribution of accepted papers for the 1st HiLL Workshop at NeurIPS 2022</b></figcaption>
+
+
+
 # Call for Papers
+
+<details><summary><b><font color="1367a7">show mores </font></b></summary>
+
 We welcome high-quality submissions on algorithms and system designs in the broad area of human in the loop learning. The topics of HiLL include but are not limited to:
 
 -	Human-machine collaborative learning,
@@ -47,18 +51,24 @@ Papers can be submitted through CMT:
 [ https://cmt3.research.microsoft.com/NeurIPSHILL2022]( https://cmt3.research.microsoft.com/NeurIPSHILL2022)
 
 Contact chairs: [hill_neurips22@googlegroups.com](hill_neurips22@googlegroups.com)
+</details>
+
 
 # Important Dates
+<details><summary><b><font color="1367a7">show mores </font></b></summary>
 
 - Submission deadline: 24:00 Pacific Time (PT), <del> Sep 29 </del> **Oct 7**, 2022
-- Acceptance notification: 24:00 Pacific Time (PT), <del>Oct 14</del> **Oct 27**, 2022
-- camera-ready deadline: 24:00 Pacific Time (PT), Nov 3, 2022
-- **Workshop date: 8:30~17:00, Dec 2, 2022, New Orleans time [click to join](https://neurips.cc/virtual/2022/workshop/49957)**
 
+- Acceptance notification: 24:00 Pacific Time (PT), <del>Oct 14</del> **Oct 27**, 2022
+
+- camera-ready deadline: 24:00 Pacific Time (PT), Nov 3, 2022
+
+- **Workshop date: 8:30~17:00, Dec 2, 2022, New Orleans time [click to join](https://neurips.cc/virtual/2022/workshop/49957)**
 
 - We will select **best paper** this year.
 
 - High-quality papers of NeurIPS 2022 Workshop on Human in the Loop Learning will be recommended to publish with **Machine Intelligence Research** (EI and ESCI indexed journal).
+</details>
 
 
 # Speakers of HILL Workshop @ NeurIPS 2022
