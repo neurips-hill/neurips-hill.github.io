@@ -20,9 +20,6 @@ For the 1st HiLL Workshop at NeurIPS 2022, we have over 120 submissions and acce
  <img src="images/web/paper-distribution.png" alt="Trulli" style="width:40%" >
  <p/>
  
- <figcaption align = "center"><b>Country distribution of accepted papers for the 1st HiLL Workshop at NeurIPS 2022</b></figcaption>
-
-
 
 # Speakers of HILL Workshop @ NeurIPS 2022
 We invite representative researchers from the related areas to give featured talks. We are honored to have the following speakers:
